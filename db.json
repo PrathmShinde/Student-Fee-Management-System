@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Prathm",
+      "lastName": "Shinde",
+      "emailId": "prathm@gmail.com",
+      "mobile": "8999016261",
+      "fees": "23500"
+    },
+    {
+      "id": 2,
+      "firstName": "Rohan",
+      "lastName": "Kakade",
+      "emailId": "rohan@gmail.com",
+      "mobile": "9845234279",
+      "fees": "25900"
+    },
+    {
+      "id": 3,
+      "firstName": "Sagar",
+      "lastName": "Thakare",
+      "emailId": "sagar@gmail.com",
+      "mobile": "9579214546",
+      "fees": "120000"
+    },
+    {
+      "id": 4,
+      "firstName": "Shubham",
+      "lastName": "Jadhav",
+      "emailId": "shubham@gmail.com",
+      "mobile": "8975428328",
+      "fees": "45000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
